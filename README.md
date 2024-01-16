@@ -8,7 +8,7 @@ const Ian = {
   occupation: 'Software Development',
   education: [
     {
-      area: 'Desenvolvimento de Sistemas',
+      area: 'Systems Development',
       degree: 'Technical',
       institution: 'SENAI',
       status: 'Enrolled',
