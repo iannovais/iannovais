@@ -25,7 +25,7 @@ const Ian = {
 
 ### Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,php,html,css,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,php,html,css,git,mysql)](https://skillicons.dev)
 
 ### Contact
 <p>
