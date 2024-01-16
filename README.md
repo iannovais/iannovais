@@ -27,7 +27,7 @@ const Ian = {
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,php,html,css,git,mysql)](https://skillicons.dev)
 
-### Contact
+### Contato
 <p>
   <a href="https://www.linkedin.com/in/iannovais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
