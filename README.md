@@ -1,16 +1,38 @@
-### Hi there 👋
+### 👋 Olá, me chamo Ian Novais.
 
-<!--
-**iannovais/iannovais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const Ian = {
+  age: 20,
+  location: 'Brazil',
+  likes: ['Coding', 'Football', 'Music'],
+  occupation: 'Software Development',
+  education: [
+    {
+      area: 'Desenvolvimento de Sistemas',
+      degree: 'Technical',
+      institution: 'SENAI',
+      status: 'Enrolled',
+    },
+    {
+      area: 'Software Engineering',
+      degree: 'Bacharel',
+      institution: 'PUC Minas',
+      status: 'Enrolled',
+    },
+  ],
+};
+```
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,git,mysql)](https://skillicons.dev)
+
+### Estudando
+
+[![My Skills](https://skillicons.dev/icons?i=php,js,nodejs)](https://skillicons.dev)
+
+
+### Contact
+<p>
+  <a href="https://www.linkedin.com/in/iannovais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
