@@ -2,7 +2,7 @@
 
 ```js
 const Ian = {
-  age: 20,
+  age: 21,
   location: 'Brazil',
   likes: ['Coding', 'Football', 'Music'],
   occupation: 'Software Development',
@@ -25,7 +25,7 @@ const Ian = {
 
 ### Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java,php,html,css,git,mysql)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,nodejs,php,java,spring,html,css,git,mysql)]()
 
 ### Contato
 <p>
