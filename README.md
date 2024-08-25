@@ -11,7 +11,7 @@ const Ian = {
       area: 'Systems Development',
       degree: 'Technical',
       institution: 'SENAI',
-      status: 'Enrolled',
+      status: 'Formed',
     },
     {
       area: 'Software Engineering',
